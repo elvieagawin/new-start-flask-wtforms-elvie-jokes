@@ -1,0 +1,35 @@
+{
+  "body":[
+    {
+      "_id": "60dd36556004ebcb3dffd383",
+      "setup": "I was hosting a dinner party and everyone thought my food was bad",
+      "punchline": "Exept the smoke detector, that thought it was fire",
+      "type": "food"
+    },
+    {
+      "_id": "60dd357bba9d6be43e4132a6",
+      "setup": "Why is it so hard to do inventory in Afghanistan?",
+      "punchline": "Because of the tally-ban.",
+      "type": "afghanistan"
+    },
+    {
+      "_id": "60dd35c96afab11f9ae78b89",
+      "setup": "I just heard that Budweiser is suing Stella Artois for casting Sarah Jessica Parker in their Super Bowl LIII ad.",
+      "punchline": "Apparently they have a trademark on beer advertisements starring a horse.",
+      "type": "cast"
+    },
+    {
+      "_id": "60dd35be386902dbcec7c4ac",
+      "setup": "A Canadian walks into a cafe, and the barista asks, \"Would you like a latte?\"",
+      "punchline": "And the Canadian responds to him \"Nah, just a bit, eh.\"",
+      "type": "cafe"
+    },
+    {
+      "_id": "60dd3593d03f8d0da61d631e",
+      "setup": "Only a bank ATM will charge you $3 to get your money back",
+      "punchline": "Then tell you to cover your pin so you don't get robbed.",
+      "type": "bank"
+    }
+
+  ]
+}
